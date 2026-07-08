@@ -62,8 +62,9 @@ Each chapter file follows the same structure:
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
-   cd <your-repo-name>
+   git clone https://github.com/prashantgautamdev/Python-Full-course.git
+   cd Python-Full-course
+
    ```
 2. Open any chapter file and pick a question.
 3. Write your solution directly below the question (or in a separate file) and run it:
